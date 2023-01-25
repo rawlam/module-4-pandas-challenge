@@ -1,5 +1,8 @@
 # module-4-pandas-challenge
 
+My assignment file is called, RL_PyCitySchools.ipynb. 
+
+
 ## Written report
 
 Based on the schools and students complete data, district schools and their students have a higher budget than the charter schools and their students. In terms of student populations, all district schools have a large 2000 to 5000 student body while their counter parts range from less than 1000 to 2000 students. 
